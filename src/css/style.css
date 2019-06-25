@@ -1,0 +1,32 @@
+.gist-block blockquote {
+    background: #F6F6F6;
+    padding: 1px 10px;
+}
+.gist-block pre {
+    color: #111;
+}
+.gist-block code {
+    line-height: 1.1em;
+    display: block;
+    font-family: 'Inconsolata', monospace;
+    overflow: scroll;
+}
+.gist-block .code-reserved-word {
+    color: #00008D;
+    font-weight: bold;
+}
+.gist-block .code-reserved-operator {
+    color: #CB2439;
+}
+.gist-block .code-annotation {
+    color: #888;
+}
+.gist-block .code-number {
+    color: blue;
+}
+.gist-block .code-string {
+    color: #1D7000;
+}
+.gist-block .code-property {
+    color: #1D80F0;
+}
